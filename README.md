@@ -21,11 +21,12 @@
 
 ## 🚀 About Me
 
-- 💻 Front-End Developer
-- ⚛️ React & Next.js Developer
-- 🎨 UI/UX lover
-- 🌱 Learning advanced web technologies
-- 🔥 Passionate about clean and scalable code
+- 💻 Front-End Developer specializing in React & Next.js
+- ⚛️ Building modern web applications with TypeScript
+- 🛠️ Exploring Backend development and API integration
+- 🌌 Creating 3D web experiences with Three.js
+- 🎨 Passionate about UI/UX and creative digital experiences
+- 🔥 Writing clean and scalable code
 
 ---
 
@@ -57,6 +58,8 @@
 
 <p align="center">
 
+<div align="center">
+
 <a href="https://github.com/Arsham-369-Ghaderi">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
@@ -68,6 +71,20 @@
 <a href="https://instagram.com/3arsham_6arg9">
 <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram">
 </a>
+
+<a href="https://t.me/09307696656">
+<img src="https://img.shields.io/badge/Telegram-09307696656-2CA5E0?style=for-the-badge&logo=telegram">
+</a>
+
+<a href="https://wa.me/989307696656">
+<img src="https://img.shields.io/badge/WhatsApp-09307696656-25D366?style=for-the-badge&logo=whatsapp">
+</a>
+
+<a href="mailto:arshamghaderi369@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-arshamghaderi369%40gmail.com-red?style=for-the-badge&logo=gmail">
+</a>
+
+</div>
 
 </p>
 
