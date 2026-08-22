@@ -14,7 +14,8 @@
 
 <div align="center">
 
-<img src="[YOUR_BANNER_LINK_HERE](https://raw.githubusercontent.com/Arsham-369-Ghaderi/Arsham-369-Ghaderi/main/banner.png)" width="100%" />
+<img src="https://raw.githubusercontent.com/Arsham-369-Ghaderi/Arsham-369-Ghaderi/main/banner.png" width="100%" />
+
 
 </div>
 
