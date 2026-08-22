@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=2500&pause=1000&color=6B7CFF&center=true&vCenter=true&width=850&height=100&lines=Hi+%F0%9F%91%8B+I'm+Arsham+Ghaderi;Front-End+Developer;React+%7C+Next.js+%7C+TypeScript" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=2500&pause=1000&color=6B7CFF&center=true&vCenter=true&width=850&height=100&lines=Hi+%F0%9F%91%8B+I'm+Arsham+Ghaderi;Front-End+Developer" />
 
 <br>
 
