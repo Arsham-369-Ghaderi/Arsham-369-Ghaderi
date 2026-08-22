@@ -1,14 +1,12 @@
-<h1 align="center">
-  Hi 👋 I'm Arsham Ghaderi
-</h1>
+<div align="center">
 
-<h3 align="center">
-  Front-End Developer
-</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=2500&pause=1000&color=6B7CFF&center=true&vCenter=true&width=850&height=100&lines=Hi+%F0%9F%91%8B+I'm+Arsham+Ghaderi;Front-End+Developer;React+%7C+Next.js+%7C+TypeScript" />
 
-<p align="center">
-  I build fast, responsive and beautiful web experiences.
-</p>
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=9B5CFF&center=true&vCenter=true&width=850&height=70&lines=Next.js+%7C+TypeScript+%7C+Tailwind+CSS;Building+Modern+Web+Experiences+%F0%9F%9A%80" />
+
+</div>
 
 ---
 
